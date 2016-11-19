@@ -1,0 +1,4 @@
+sqs: http://boto3.readthedocs.io/en/latest/guide/sqs.html
+twitter tweet code: http://socialmedia-class.org/twittertutorial.html
+twitter attribute: https://dev.twitter.com/streaming/overview/request-parameters#locations
+
